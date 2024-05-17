@@ -6,3 +6,4 @@ for(let i=0; i<botoes.length; i=i+1){
     }
     console.log(i)
 }
+   
